@@ -1,6 +1,8 @@
 # Parcel-Vue with Koa server
 The boilerplate for building Vue applications with Parcel and Koa server
 
+if you need only client-side -> [tomon9086/parcel-vue](https://github.com/tomon9086/parcel-vue)
+
 ## Usage
 Just clone and build.
 
