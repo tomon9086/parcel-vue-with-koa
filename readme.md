@@ -25,5 +25,6 @@ npm run debug
 to run server as a daemon
 
 ```shell=
+npm run build
 npm run start
 ```

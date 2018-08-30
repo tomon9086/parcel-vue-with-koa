@@ -16,7 +16,7 @@
   },
   "scripts": {
     "build": "parcel build src/index.html --out-dir build",
-    "debug": "parcel watch src/index.html & forever --debug --watch --watchDirectory server/ server/index.js",
+    "debug": "parcel watch src/index.html & forever --debug --watch --watchDirectory server/ server/index.js debug",
     "start": "forever start server/index.js",
     "stop": "forever stop server/index.js",
     "restart": "forever restart server/index.js",
